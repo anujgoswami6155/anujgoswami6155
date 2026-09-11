@@ -18,19 +18,28 @@ I'm a **Software Developer** passionate about building practical, scalable, and 
 # 🚀 Featured Projects
 
 ### 🔗 BuildBridge
-Collaborative MERN-based platform for student project discovery, team formation, Kanban-style task management, and workspace communication.
+
+A collaborative **MERN-based platform** for student project discovery, team formation, Kanban-style task management, and real-time workspace communication.
+
+**Tech Stack:**  
 `React` `Node.js` `Express.js` `MongoDB` `Socket.IO`
 
-### 🧾 InvoiceHub
-Cross-platform mobile app for freelancers and small businesses to manage invoices, with authentication, cloud data sync, and document storage.
-`Flutter` `Dart` `Firebase Authentication` `Cloud Firestore` `Firebase Storage`
+---
 
 ### 🎫 IT Helpdesk & Support Ticket System
-REST API for managing support tickets with role-based access control.
-`Spring Boot` `PostgreSQL` `Hibernate`
+
+A **REST API** for managing support tickets with role-based access control, designed to streamline issue tracking and support workflows.
+
+**Tech Stack:**  
+`Java` `Spring Boot` `PostgreSQL` `Hibernate` `JWT`
+
+---
 
 ### 💊 MediTracker
-Web-based healthcare management system for tracking medications, setting reminders, and securely storing prescriptions and lab reports.
+
+A web-based **healthcare management system** for tracking medications, setting reminders, and securely storing prescriptions and lab reports.
+
+**Tech Stack:**  
 `Django` `PostgreSQL`
 
 ---
@@ -86,10 +95,6 @@ Web-based healthcare management system for tracking medications, setting reminde
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=anujgoswami6155&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
