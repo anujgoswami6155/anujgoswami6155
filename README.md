@@ -17,7 +17,7 @@ I'm a **Software Developer** passionate about building practical, scalable, and 
 
 # 🚀 Featured Projects
 
-### 🔗 BuildBridge
+### 🔗 [BuildBridge](https://github.com/anujgoswami6155/BuildBridge)
 
 A collaborative **MERN-based platform** for student project discovery, team formation, Kanban-style task management, and real-time workspace communication.
 
@@ -26,7 +26,7 @@ A collaborative **MERN-based platform** for student project discovery, team form
 
 ---
 
-### 🎫 IT Helpdesk & Support Ticket System
+### 🎫 [IT Helpdesk & Support Ticket System](https://github.com/anujgoswami6155/Helpdesk-System)
 
 A **REST API** for managing support tickets with role-based access control, designed to streamline issue tracking and support workflows.
 
@@ -35,7 +35,7 @@ A **REST API** for managing support tickets with role-based access control, desi
 
 ---
 
-### 💊 MediTracker
+### 💊 [MediTracker](https://github.com/anujgoswami6155/MediTracker)
 
 A web-based **healthcare management system** for tracking medications, setting reminders, and securely storing prescriptions and lab reports.
 
